@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-
-int main(int /*argc*/,char* /*argv*/[])
+using namespace std;
+int main()
 {
     string name=nullptr;
     cout<<"Введите имя пользователя"<<endl;
